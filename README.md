@@ -2,7 +2,7 @@
 
 This is a simple shell script written for automating the process of comparing a program's outputs with sample outputs. The script can be used to check the correctness of a program by checking if the outputs match the expected outputs.
 
-I wrote this for checking my programming assignments. I did not debug very throughoutly so use it at your own discretion.
+I wrote this for checking my programming assignments. I am not a professional so I cannot guarantee the script's correctness. Use it at your own discretion.
 
 # Description & How to use
 1. I hard coded some of the file names and directories in the script. Configure the directories and rename your testcases and programs under the following rule so that they work with my script:
