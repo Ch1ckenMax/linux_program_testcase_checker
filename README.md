@@ -1,4 +1,4 @@
-# Linux Program Test Case Checker
+# Program Test Case Checker Written in Linux Shell
 
 This is a simple shell script written for automating the process of comparing a program's outputs with sample outputs. The script can be used to check the correctness of a program by checking if the outputs match the expected outputs.
 
