@@ -18,5 +18,5 @@ I wrote this for checking my programming assignments. I am not a professional so
     - The first parameter: the program name
     - The second parameter: the folder name
     - The third parameter: number of test case pairs
-    - As an example, to run the script for the ```foobar``` program above, if the test case folder is named as ```testcases```, the command would be ```./test.sh foobar 2 testcases```
+    - As an example, to run the script for the ```foobar``` program above, if the test case folder is named as ```testcases```, the command would be ```./test.sh foobar testcases 2```
 4. The result will be echo'd on console. If there are any errors when the script tries to run the test cases, the program will create a text file testError.txt and write the errors onto that file
